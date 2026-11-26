@@ -2,11 +2,11 @@
 
 <img src="images/banner_blk.png#gh-light-mode-only"
      align="left"
-     width="250%"
+     width="250"
      alt="banner">
 <img src="images/banner_wht.png#gh-dark-mode-only"
      align="left"
-     width="250%"
+     width="250"
      alt="banner">
 
 
