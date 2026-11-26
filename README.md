@@ -20,7 +20,7 @@ Its syntax colors are based on VS Code's built-in
 𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖧𝗂𝗀𝗁 𝖢𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝗍𝗁𝖾𝗆𝖾.
 <br><br>
 𝖲𝖾𝖾 "𝖱𝖾𝗅𝖾𝖺𝗌𝖾𝗌" 𝗈𝗇 𝗍𝗁𝖾 𝗋𝗂𝗀𝗁𝗍 𝖿𝗈𝗋 𝗍𝗁𝖾 𝖻𝗂𝗇𝖺𝗋𝗒.
-<br><br>
+
 ```
 - Background:         `#F4F0E2`
 - Accent and borders: `#1F1F1F`
