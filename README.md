@@ -1,4 +1,15 @@
-<img src="images/banner_wht.png" width="250" alt="Banner">
+<!--<img src="images/banner_wht.png" width="250" alt="Banner">-->
+
+<img src="images/banner_blk.png#gh-light-mode-only"
+     align="left"
+     width="250%"
+     alt="banner">
+<img src="images/banner_wht.png#gh-dark-mode-only"
+     align="left"
+     width="250%"
+     alt="banner">
+
+
 <!--Black Lines is a light, high-contrast VS Code color 
 theme using a mild ivory background and black borders.-->
 𝖡𝗅𝖺𝖼𝗄 𝖫𝗂𝗇𝖾𝗌 𝗂𝗌 𝖺 𝗅𝗂𝗀𝗁𝗍, 𝗁𝗂𝗀𝗁-𝖼𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝖵𝖲 𝖢𝗈𝖽𝖾 𝖼𝗈𝗅𝗈𝗋 
